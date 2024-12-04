@@ -1,0 +1,13 @@
+---
+- name: Verification
+  tag: VERF
+- name: Security
+  tag: SEC
+- name: Artificial Intelligence
+  tag: AI
+- name: Vehicle Communications
+  tag: VEH
+- name: Conference
+  tag: CONF
+- name: Workshop
+  tag: SHOP
