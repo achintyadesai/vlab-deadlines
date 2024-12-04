@@ -3,7 +3,7 @@ description: Countdowns to conference & workshop deadlines.
 author: V-Lab
 
 domain: "achintyadesai.github.io"
-baseurl: ""
+baseurl: "/vlab-deadlines"
 
 twitter_username: achintyadesai
 github_username: achintyadesai
