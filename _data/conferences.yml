@@ -46,6 +46,16 @@
   place: Seattle, WA, USA
   tags: [SEC, CONF]
 
+- name: VehicleSec
+  description: USENIX Symposium on Vehicle Security and Privacy
+  year: 2025
+  link: https://www.usenix.org/conference/vehiclesec25
+  deadline:
+    - "2025-02-27 23:59"
+  date: "August 11-12"
+  place: Seattle, WA, USA
+  tags: [SEC, CONF]
+
 - name: NDSS
   description: ISOC Network and Distributed System Security Symposium
   year: 2025
