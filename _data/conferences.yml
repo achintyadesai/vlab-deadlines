@@ -10,7 +10,43 @@
   comment: Abstract deadline on Sept 05, Major revision only on Feb 02.
   date: June 23-27
   place: Trondheim, Norway
-  tags: [VERF, CONF]
+  tags: [SE, CONF]
+
+- name: ICSE
+  description: IEEE/ACM International Conference on Software Engineering
+  year: 2026
+  link: https://conf.researchr.org/home/icse-2026
+  deadline:
+    - "2025-03-14 23:59"
+    - "2025-07-18 23:59"
+  comment: Abstract deadline on March 07 & July 11, Major revision and new submissions on July 18.
+  date: April 12-18
+  place: Rio de Janeiro, Brazil
+  tags: [SE, CONF]
+
+- name: ASE
+  description: IEEE/ACM International Conference on Automated Software engineering
+  year: 2025
+  link: https://conf.researchr.org/home/ase-2025
+  deadline:
+    - "2025-05-30 23:59"
+    - "2025-09-11 23:59"
+  comment: No abstract deadline, Major revision only on Sept 11.
+  date: Nov 16-20
+  place: Seoul, Korea
+  tags: [SE, CONF]
+
+- name: ISSTA
+  description: ACM SIGSOFT International Symposium on Software Testing and Analysis
+  year: 2025
+  link: https://conf.researchr.org/home/issta-2025
+  deadline:
+    - "2024-10-31 23:59"
+    - "2025-02-27 23:59"
+  comment: No abstract deadline, Major revision only on Feb 27.
+  date: June 25-28
+  place: Trondheim, Norway
+  tags: [SE, CONF]
 
 # Security and Privacy
 - name: S&P (Oakland)

@@ -1,6 +1,8 @@
 ---
 - name: Verification
   tag: VERF
+- name: Software Engineering
+  tag: SE
 - name: Security
   tag: SEC
 - name: Artificial Intelligence
