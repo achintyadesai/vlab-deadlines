@@ -147,6 +147,17 @@
   place: Venice, Italy 
   tags: [SEC, CONF]
 
+- name: IEEE S&P
+  description: IEEE Symposium on Security and Privacy
+  year: 2026
+  comment: No abstract deadline.
+  link: https://sp2026.ieee-security.org/index.html
+  deadline: 
+    - "2024-06-05 23:59"
+    - "2024-11-13 23:59"
+  date: "May 18 - May 20"
+  place: San Francisco, California 
+  tags: [SEC, CONF]
 
 # Workshops
 
