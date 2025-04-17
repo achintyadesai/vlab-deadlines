@@ -159,6 +159,17 @@
   place: San Francisco, California 
   tags: [SEC, CONF]
 
+- name: NeurIPS
+  description: Neural Information Processing Systems
+  year: 2025
+  comment: Abstract registration on May 11th AoE (firm). Technical Appendices and supplemental materials on May 22nd AoE (firm).
+  link: https://neurips.cc/
+  deadline: ["2024-05-15 23:59"]
+  date: "Dec 2 - Dec 7"
+  place: San Diego, California 
+  tags: [AI, CONF]
+
+
 # Workshops
 
 - name: CPSIoTSec
