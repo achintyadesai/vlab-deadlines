@@ -2,14 +2,13 @@
 # Verification Deadlines
 - name: FSE
   description: ACM International Conference on the Foundations of Software Engineering
-  year: 2025
-  link: https://conf.researchr.org/home/fse-2025
+  year: 2026
+  link: https://conf.researchr.org/home/fse-2026
   deadline:
-    - "2024-09-12 23:59"
-    - "2025-02-25 23:59"
-  comment: Abstract deadline on Sept 05, Major revision only on Feb 02.
-  date: June 23-27
-  place: Trondheim, Norway
+    - "2025-09-11 23:59"
+  comment: Abstract deadline on Sept 04, No major revision.
+  date: March 23-27
+  place: Montreal, Canada
   tags: [SE, CONF]
 
 - name: ICSE
