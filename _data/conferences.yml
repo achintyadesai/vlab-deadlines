@@ -37,14 +37,14 @@
 
 - name: ISSTA
   description: ACM SIGSOFT International Symposium on Software Testing and Analysis
-  year: 2025
-  link: https://conf.researchr.org/home/issta-2025
+  year: 2026
+  link: https://conf.researchr.org/home/issta-2026
   deadline:
-    - "2024-10-31 23:59"
-    - "2025-02-27 23:59"
-  comment: No abstract deadline, Major revision only on Feb 27.
-  date: June 25-28
-  place: Trondheim, Norway
+    - "2026-01-29 23:59"
+    - "2026-05-14 23:59"
+  comment: No abstract deadline, Major revision only on May 14.
+  date: Oct 03-09
+  place: Oakland, California, USA
   tags: [SE, CONF]
 
 # Security and Privacy
