@@ -2,25 +2,24 @@
 # Verification Deadlines
 - name: FSE
   description: ACM International Conference on the Foundations of Software Engineering
-  year: 2026
-  link: https://conf.researchr.org/home/fse-2026
+  year: 2027
+  link: https://conf.researchr.org/home/fse-2027
   deadline:
-    - "2025-09-11 23:59"
-  comment: Abstract deadline on Sept 04, No major revision.
-  date: March 23-27
-  place: Montreal, Canada
+    - "2026-10-02 23:59"
+  comment: No abstract deadline. 
+  date: July 12-16
+  place: Shenzhen, China
   tags: [SE, CONF]
 
 - name: ICSE
   description: IEEE/ACM International Conference on Software Engineering
-  year: 2026
-  link: https://conf.researchr.org/home/icse-2026
+  year: 2027
+  link: https://conf.researchr.org/home/icse-2027
   deadline:
-    - "2025-03-14 23:59"
-    - "2025-07-18 23:59"
-  comment: Abstract deadline on March 07 & July 11, Major revision and new submissions on July 18.
-  date: April 12-18
-  place: Rio de Janeiro, Brazil
+    - "2026-06-30 23:59"
+  comment: No second deadline.
+  date: April 25 - May 1
+  place: Dublin, Ireland
   tags: [SE, CONF]
 
 - name: ASE
@@ -49,14 +48,15 @@
 
 # Security and Privacy
 - name: S&P (Oakland)
-  year: 2025
+  year: 2027
   date: May 12-15
   description: IEEE Symposium on Security and Privacy
   link: https://www.ieee-security.org/TC/SP2025
   deadline:
-    - "2024-06-06 23:59"
-    - "2024-11-14 23:59"
-  place: San Francisco, California, USA
+    - "2026-06-11 23:59"
+    - "2026-11-17 23:59"
+  comment: Interactive rebuttal.
+  place: Montreal, Canada
   tags: [SEC, CONF]
   
 - name: CCS
@@ -73,12 +73,14 @@
 
 - name: USENIX Security
   description: USENIX Security Symposium
-  year: 2026
-  link: https://www.usenix.org/conference/usenixsecurity25
+  year: 2027
+  link: https://www.usenix.org/conference/usenixsecurity26
   deadline:
-    - "2026-02-05 23:59"
-  date: "August 12-14"
-  place: Baltimore, USA
+    - "2026-08-26 23:59"
+    - "2027-01-27 23:59"
+  comment: Abstract on 08-18, 01-19, respectively.
+  date: "August 11-13"
+  place: Denver, CO, USA
   tags: [SEC, CONF]
 
 - name: VehicleSec
@@ -144,18 +146,6 @@
   deadline: ["2024-10-24 23:59"]
   date: "June 30 - July 4"
   place: Venice, Italy 
-  tags: [SEC, CONF]
-
-- name: IEEE S&P
-  description: IEEE Symposium on Security and Privacy
-  year: 2026
-  comment: No abstract deadline.
-  link: https://sp2026.ieee-security.org/index.html
-  deadline: 
-    - "2025-06-05 23:59"
-    - "2025-11-13 23:59"
-  date: "May 18 - May 20"
-  place: San Francisco, California 
   tags: [SEC, CONF]
 
 - name: NeurIPS
