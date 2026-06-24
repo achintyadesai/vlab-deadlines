@@ -6,7 +6,6 @@ Based on [ai-deadlines](https://aideadlin.es) by @abshkdz & [sec-deadlines](http
 
 * Read the data format description below. **Note that the timezone format sign is inverted** (e.g., UTC+7 is written as `Etc/GMT-7`).
 * Update `_data/conferences.yml`. You can do that on GitHub or locally after forking the repo.
-* Send a pull request
 
 ### Conference entry record
 
