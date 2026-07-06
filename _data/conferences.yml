@@ -202,3 +202,25 @@
   place: Vienna, Austria
   comment: Co-located with ISSTA 2024
   tags: [VERF, SHOP]
+
+- name: AgenticDev
+  year: 2026
+  date: "October 16"
+  description: International Workshop on Agentic AI for Next-Generation Software Development (AgenticDev 2026)
+  link: https://conf.researchr.org/home/ase-2026/agenticdev-2026#Call-for-Papers
+  deadline:
+    - "2026-07-15 23:59"
+  place: Munich, Germany
+  comment: Co-located with ASE 2026
+  tags: [VERF, SHOP]
+
+- name: RASE
+  year: 2026
+  date: "October 16"
+  description: Reliable and trustworthy Automated Software Engineering (RASE 2026)
+  link: https://conf.researchr.org/home/ase-2026/rase-2026#Call-for-papers
+  deadline:
+    - "2026-07-24 23:59"
+  place: Munich, Germany
+  comment: Co-located with ASE 2026
+  tags: [VERF, SHOP]
